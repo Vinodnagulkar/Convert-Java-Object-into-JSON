@@ -16,6 +16,13 @@ public class Employee
 		this.empName = empName;
 		this.designation = designation;
 	}
+	
+	public Employee() 
+	{
+	
+	}
+
+
 	public int getEmpId() {
 		return empId;
 	}
